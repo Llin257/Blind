@@ -1,0 +1,28 @@
+body{
+	background-image: url("http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20101014/REAL_ESTATE/101019929/V2/0/V2-101019929.jpg?q=100&cci_ts=20101014141207");
+  	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: absolute;
+	img
+}
+p{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #003366;
+	font: 25px Open Sans, sans-serif;
+	line-height: 35px;
+	padding-left: 40px;
+	padding-right: 80px;
+}
+
+h1{
+	margin-left: 16cm;
+	color:maroon;
+	border: 10px double gold;
+	margin-right: 16cm;
+	padding:10px;
+}
+
